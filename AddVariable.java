@@ -1,7 +1,7 @@
 public class AddVariable {
     public static void main(String[] args) {
-        String firstName = "Balkrishan";
-        String lastName = "Thakur";
+        String firstName = "Ankul";
+        String lastName = "Yadav";
         String fullName = firstName+lastName;
         int x=4, y=9,z=2;
         int age=21;
